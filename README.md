@@ -100,7 +100,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Muhammad Afin - [@Afiin10](https://twitter.com/Afiin10) - muhammadafin787@gmail.com
 
-Project Link: [https://github.com/muhammadafin/atudent_room](https://github.com/muhammad_afin/student_room)
+Project Link: [https://github.com/muhammadafin/student_room](https://github.com/muhammad_afin/student_room)
 
 
 
