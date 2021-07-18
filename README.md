@@ -20,13 +20,13 @@
   <p align="center">
     Flutter Mobile App UI Design
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/muhammadafin/student_room/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
 <!--     <a href="https://github.com/muhammadafin/Haha">View Demo</a> -->
-    ·
+<!--     · -->
     <a href="https://github.com/muhammadafin/student_room/issues">Report Bug</a>
-    ·
+<!--     · -->
 <!--     <a href="https://github.com/muhammadafin/student_room/issues">Request Feature</a> -->
   </p>
 </p>
@@ -51,7 +51,7 @@ A few resources to get you started if this is your first Flutter project:
 ### Prerequisites
 
 You have to install Flutter SDK on your computer
-* npm
+* Flutter SDK
   ```sh
   git clone https://github.com/flutter/flutter.git -b stable
   ```
