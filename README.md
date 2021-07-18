@@ -11,11 +11,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/muhammadafin/student_room">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Student Room</h3>
+  <h2 align="center">Student Room</h2>
 
   <p align="center">
     Flutter Mobile App UI Design
