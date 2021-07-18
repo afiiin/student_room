@@ -15,12 +15,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h2 align="center">Student Room</h2>
+  <h3 align="center">Student Room</h3>
 
   <p align="center">
     Flutter Mobile App UI Design
     <br />
-    <a href="https://github.com/muhammadafin/student_room/"><strong>Explore the docs »</strong></a>
+<!--     <a href="https://github.com/muhammadafin/student_room/"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
 <!--     <a href="https://github.com/muhammadafin/Haha">View Demo</a> -->
