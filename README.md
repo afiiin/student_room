@@ -2,7 +2,7 @@
     <img src="images/pngwing.com.png" alt="Logo" width="80" height="80">
  </a>
  
-# student_room
+# Student Room
 
 A new Flutter project 
 
