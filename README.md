@@ -1,5 +1,5 @@
 <a href="https://github.com/muhmmadafin/student_room">
-    <img src="images/pngwing.com.png" alt="Logo" width="100" height="100">
+    <img src="images/pngwing.com.png" alt="Logo" width="80" height="80">
  </a>
  
 # Student Room
